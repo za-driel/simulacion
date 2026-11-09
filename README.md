@@ -1,2 +1,2 @@
 # simulacion
-codigo del tinaco
+codigo
